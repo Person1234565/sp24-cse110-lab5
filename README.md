@@ -2,9 +2,9 @@
 
 Joseph Kan
 
-## Expose site link: https://person1234565.github.io/sp24-cse110-lab5/expose.html
+## Expose site [link](https://person1234565.github.io/sp24-cse110-lab5/expose.html)
 
-## Explore site link: https://person1234565.github.io/sp24-cse110-lab5/explore.html
+## Explore site [link](https://person1234565.github.io/sp24-cse110-lab5/explore.html)
 
 ## Check your understanding
 
